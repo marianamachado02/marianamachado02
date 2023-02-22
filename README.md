@@ -1,7 +1,6 @@
 ## Hi, I'm Mariana!
 
 -  I’m a student of Informatics Engineering at University of Trás-os-Montes and Alto Douro
--  I’m currently learning Javascript
 -  How to reach me: marianabessam@hotmail.com
 
 <div align="center">
