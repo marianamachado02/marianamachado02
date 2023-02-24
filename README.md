@@ -1,7 +1,7 @@
 ## Hi, I'm Mariana!
 
--  I’m a student of Informatics Engineering at University of Trás-os-Montes and Alto Douro
--  How to reach me: marianabessam@hotmail.com
+-  Hi there! I'm an Informatics Engineering student at UTAD University. 
+-  How to reach me: mariana.machado2502@gmail.com
 
 <div align="center">
   <a href="https://github.com/marianamachado02">
