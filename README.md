@@ -21,7 +21,7 @@
 </div>
 
 ### You Can reach me on:
-<a href="mailto:mariana.machado2502@gmail.com>
+<a href="mailto:mariana.machado2502@gmail.com">
   My Email </a>
 <a href="https://www.linkedin.com/in/marianab-machado/">
   My Linkedin</a>
